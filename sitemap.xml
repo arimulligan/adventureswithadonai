@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://arimulligan.github.io/adventureswithadonai/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://arimulligan.github.io/adventureswithadonai/</loc>
+</url>
+<url>
+<loc>https://arimulligan.github.io/adventureswithadonai/a-story-leading-up-to-my-present-day.html</loc>
+<lastmod>2026-01-13T17:57:21+01:00</lastmod>
+<image:image>
+<image:loc>https://arimulligan.github.io/adventureswithadonai/media/posts/3/IMG_9543.jpeg</image:loc>
+<image:title><![CDATA[pretty Queenstown, NZ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arimulligan.github.io/adventureswithadonai/media/posts/3/me-n-bible.png</image:loc>
+<image:title><![CDATA[me n bible]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arimulligan.github.io/adventureswithadonai/contact.html</loc>
+<lastmod>2026-01-13T13:24:58+01:00</lastmod>
+<image:image>
+<image:loc>https://arimulligan.github.io/adventureswithadonai/media/posts/1/IMG_8125.jpeg</image:loc>
+<image:title><![CDATA[Pretty Wellington Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arimulligan.github.io/adventureswithadonai/tech-stuff.html</loc>
+<lastmod>2026-01-13T18:03:00+01:00</lastmod>
+</url>
+</urlset>
